@@ -1,5 +1,5 @@
 [build]
-  publish = "/"
+  publish = "Gradient-page"
   # No build command needed for HTML/CSS projects
 
 [[redirects]]
